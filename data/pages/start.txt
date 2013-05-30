@@ -1,0 +1,193 @@
+
+====== USER GUIDE ======
+
+----
+
+====== How to log in ======
+
+1. Type //localhost/prodrive// in any web browser.\\
+
+{{:1.1.jpg?nolink|}}
+
+ A log in form will appear as shown below.\\  
+                      
+{{:2.jpg?nolink|}}
+
+----
+
+2. Enter User Credentials: Your username and your password.\\
+                                                   
+__NOTE:__ Default account is admin and admin for username and password, respectively. This default admin account should be deleted right after the first configuration installation.
+
+----
+
+====== How to Start Daily Cash Entry ======
+
+1. Click Transaction.\\
+
+{{:2.1.jpg?nolink|}}
+
+----
+
+2. Enter Transx date, Beginning Balance, and cashier.\\
+
+{{:2.2.1.jpg?nolink|}}
+
+----
+
+3. Click Save.\\
+
+{{:2.3.jpg?nolink|}}
+
+----
+
+4. Enter data in each form.\\
+          a. Particular
+          b. Tender
+          c. Reference No.
+          d. Amount
+          
+{{:2.4.jpg?nolink|}}
+
+__NOTE:__ Particular, Tender, and Amount must be filled.
+
+----
+
+5. Click "Add".\\
+
+{{:2.5.jpg?nolink|}}
+
+----
+
+====== How to Add Job Order ======
+
+1. Click Transaction.\\
+
+{{:2.1.jpg?nolink|}}
+
+----
+
+2. Click Job Order.\\
+
+{{:3.1.jpg?nolink|}}
+
+----
+
+3. Click Add Job Order.\\
+
+{{:3.2.jpg?nolink|}}
+
+----
+
+4. Enter all data needed. Add action. Then Save.\\
+
+{{:3.3.1.jpg?nolink|}}
+
+__NOTE:__ If there are additional labor/parts/material. Just Add action.
+
+----
+
+====== Cash Float ======
+
+Cash float is the cash that has been added to your cash register during or with in your shift. For example, beginning balance is 500php. Then your supervisor or manager gave you an amount of money. This will now be the entry for the cash float. Particular, Reference No., and Amount must be filled in order to save cash float.
+
+----
+
+====== Cash Lift  ======
+
+Cash Lift is the cash that has been collected from your cash register before Cut-Off. Particular, Reference No., and Amount must be filled in order to save cash float.
+
+----
+
+====== Cut-Off ======
+
+All sales must be collected.
+
+----
+
+====== How to Add New Data in Master Files ======
+
+Types of Data:
+        a. Customer
+        b. Categories
+        c. Labor Type
+        d. Users
+        e. Vehicles
+        f. Colors
+1. Click Master Files.\\
+
+{{:4.1.jpg?nolink|}}
+
+----
+
+2. Click a specific type of data.\\
+
+{{:4.0.jpg?nolink|}}
+
+For Example:
+
+{{:4.1.1.jpg?nolink|}}
+
+----
+
+3. Add new type of data.\\
+
+{{:4.2.jpg?nolink|}}
+
+Enter Specific information of that data. Click Save.\\
+
+{{:4.3.jpg?nolink|}}
+
+----
+
+4. To edit or delete data, click edit/delete under action.\\
+
+{{:4.4.jpg?nolink|}}
+
+----
+
+====== Reports ======
+
+----
+
+====== How to Backup Data ======
+
+1. Click Utility.\\
+
+{{:5.1.jpg?nolink|}}
+
+----
+
+2. Click Backup Database. Select Drive Destination Folder. Click Start Backup.\\
+
+{{:5.2.jpg?nolink|}}
+
+----
+
+====== How to Restore Data ======
+
+1. Click Utility.\\
+
+{{:5.1.jpg?nolink|}}
+
+----
+
+2. Click Restore.\\
+
+{{:6.2.jpg?nolink|}}
+
+----
+
+3. Or you can click Restore Database. Select specific information. Click Start Restoring Data.\\
+
+{{:6.1.jpg?nolink|}}
+
+----
+
+====== Color Indicator ======
+
+BLUE - add\\
+TANGERINE - cancel\\
+GRAY - save\\
+
+----
