@@ -154,13 +154,13 @@ Enter Specific information of that data. Click Save.\\
 
 1. Click Utility.\\
 
-{{:5.1.jpg?nolink|}}
+{{:7.1.jpg?nolink|}}
 
 ----
 
 2. Click Backup Database. Select Drive Destination Folder. Click Start Backup.\\
 
-{{:5.2.jpg?nolink|}}
+{{:7.2.jpg?nolink|}}
 
 ----
 
@@ -168,7 +168,7 @@ Enter Specific information of that data. Click Save.\\
 
 1. Click Utility.\\
 
-{{:5.1.jpg?nolink|}}
+{{:7.1.jpg?nolink|}}
 
 ----
 
